@@ -52,18 +52,6 @@ function playRound(humanChoice, computerChoice) {
     console.log("---");
 }
 
-
-function playGame(){
-    console.log()
-}
-// const humanSelection = getHumanChoice();
-// const computerSelection = getComputerChoice();
-
-// console.log(`Human choice: ${["Kertas", "Gunting", "Batu"][humanSelection]}`);
-// console.log(`Computer choice: ${computerSelection}`);
-
-// playRound(humanSelection, computerSelection);
-
 function playGame() {
     console.log("=== ROCK PAPER SCISSORS - 5 ROUNDS ===");
     humanScore = 0;
